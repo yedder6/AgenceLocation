@@ -1,6 +1,6 @@
-import java.sql.*;
-public class ClassA {
-  int y = 5;
-}
+import java.lang.*;
 
-// teste de conflitt
+public class ClassA {
+  int z = 5;
+}
+//conflitt ?
