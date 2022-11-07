@@ -1,5 +1,6 @@
 import java.lang.*;
 
 public class ClassA {
-  int x = 5;
+  int z = 5;
 }
+//conflitt ?
